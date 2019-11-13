@@ -1,10 +1,10 @@
 # Qu'est-ce que c'est ?
 
-Un lieu pour préparer au mieux le PRTS2020.
+Un lieu pour préparer au mieux les JMS 2020 inclues dans le printemps des sciences.
 
 # C'était pas l'année passée ?
 
-Le PRTS2019 s'est déroulé en 2019. Le PRTS2020 est prévu pour 2020. Vraisemblablement au printemps.
+Le Printemps des sciences 2019 s'est déroulé en 2019. Le printemps des sciences 2020 est prévu pour 2020. Vraisemblablement au printemps.
 
 # Ça ne s'arrêtera donc jamais ?
 
