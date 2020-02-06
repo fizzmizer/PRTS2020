@@ -12,8 +12,12 @@ Probablement que si, mais personne ne peut dire quand.
 
 # Le sujet est-il le même que l'année passée ?
 
-Oui et non. En fait oui, mais on essaie de faire en sorte que ça ne se voie pas trop. On aimerait bien que non, mais pour ça il faudrait qu'on trouve une bonne idée d'ici là.
+Oui et non. En fait oui, mais on essaie de faire en sorte que ça ne se voie pas trop. On aimerait bien que non, mais pour ça il faudrait qu'on trouve une bonne idée d'ici là. Une bonne idée a été eue. Hourra.
 
 # Mais alors, quel est l'intérêt de la démarche ?
 
-Alors là...
+Pas zéro mais presque zéro.
+
+# Cahier des charges :
+
+Faire une blague sur "Ce n'est pas le printemps des ... mais le printemps des sciences"
